@@ -1,0 +1,24 @@
+{
+  "name": "jsgameengine",
+  "version": "1.0.0",
+  "description": "JSGameEngine (JSGE)",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SymbioTekGit/JSGameEngine.git"
+  },
+  "keywords": [],
+  "author": "Symbiosis Technology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SymbioTekGit/JSGameEngine/issues"
+  },
+  "homepage": "https://github.com/SymbioTekGit/JSGameEngine#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
