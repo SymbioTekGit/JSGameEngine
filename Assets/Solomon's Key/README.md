@@ -5,6 +5,7 @@ Reference:
  * [GameFAQs](https://gamefaqs.gamespot.com/cpc/941044-solomons-key)
  * [The Spriters-
   Resource](https://www.spriters-resource.com/amstrad_cpc/solomonskey/sheet/110361/)
+ * [Strategy Wiki](https://strategywiki.org/wiki/Solomon's_Key)
 
 ## Description
 
