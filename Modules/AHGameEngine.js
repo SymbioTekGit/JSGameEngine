@@ -25,7 +25,22 @@ class AHGameEngine {
         this.tilesets = [];
         this.layers = [];
         this.objectlayers = [];
+
+        this.keyCodes = { "RETURN": 13, "CONTROL LEFT": 17, "SPACE": 32, "LEFT": 37, "UP": 38, "RIGHT": 39, "DOWN": 40, "COMMAND LEFT": 91 };
+        document.addEventListener('keydown',    this.onkeydown,    false);
+        document.addEventListener('keyup',      this.onkeyup,      false);
     }
+
+    onkeydown(event) {
+        console.log("KEY DOWN: " + event.keyCode);
+        event.preventDefault();
+    }
+
+    onkeyup(event) {
+        console.log("KEY UP: " + event.keyCode);
+        event.preventDefault();
+    }
+
 
     async loadImages(urls) {
         this.images = await preloadImages(urls);
