@@ -1,6 +1,6 @@
 # JAVASCRIPT GAME ENGINE (JSGE)
 
-## Installation
+## INSTALLATION
 
 Clone the git Repository
 ```
@@ -14,7 +14,10 @@ Launching the Game.
 % npm start
 ```
 
-Connect to url: [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
+Connect to url: 
+```
+http://127.0.0.1:8080/
+```
 
 ## GAMES ASSETS
 

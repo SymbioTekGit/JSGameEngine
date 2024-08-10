@@ -19,7 +19,7 @@ Solomon's Key is a platform game with both action and strategy elements. On each
 
 ### Tileset
 
-![Tileset](./Amstrad%20CPC/solomonskey-cpc-tileset.png)   
+![Tileset](./Tilesets/solomonskey-cpc-tileset-20x16.png)   
 Tileset
 
 ### Screenshot

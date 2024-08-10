@@ -10,7 +10,7 @@ async function setup() {
     let tilewidth = 20;
     let tileheight = 16;
 
-    await game.loadImages(["../Assets/Solomon's Key/Spritesheets/solomonskey-cpc-tileset-20x16.png"]);
+    await game.loadImages(["../Assets/Solomon's Key/Tilesets/solomonskey-cpc-tileset-20x16.png"]);
     game.addTileSet(0, tilewidth, tileheight, 120);
 
     game.addTileLayer(15, 12);
